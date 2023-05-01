@@ -1,0 +1,10 @@
+NIH Chest X-rays:
+
+Over 112,000 Chest X-ray images from more than 30,000 unique patients, 41.98GB.
+ In that i processed and took 74 images with collaboration of both Pneumonia and non_pneumonia cases.
+
+1. Use either link to download dataset:
+[https://www.kaggle.com/nih-chest-xrays/data](https://www.kaggle.com/nih-chest-xrays/data)
+[https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+
+2. Extract "images" folders into an "data" folder to maintain file path dependencies.
