@@ -1,5 +1,8 @@
 # DSCI6612-02_Term-Project
-Artificial Intelligence Term Group Project
+Artificial Intelligence Term Group Project by 
+1. Ashish Manchala
+2. Nehanvitha Adapa
+3. Gangai Kali Prasad
 
 # Pneumonia Detection
 
@@ -7,10 +10,10 @@ Intro:
 Deep learning and computer vision advancements have made it possible to design software that helps doctors today. In this research, we're employing a convolutional neural network (CNN) model trained on chest X-ray pictures to identify whether a patient has pneumonia or not. This classification task was carried out using the VGG16 CNN model. To save radiologists' time, this model is used to pre-screen chest X-ray pictures before their review.
 Two Jupyter Notebooks are used in this project:
 
-(1) Exploratory Data Analysis (EDA)
+1) Exploratory Data Analysis (EDA)
 NIH X-Ray Dataset and X-ray image pixel-level analysis.
 
-(2) Build and Train Model
+2) Build and Train Model
     Here we Used Scikit-Learn to split the dataset, Keras ImageDataGenerator for image pre-processing and build & train a Keras Sequential model and transform its probabilistic outputs to binary predictions and test the model with random images.
 
 
