@@ -1,7 +1,7 @@
 # DSCI6612-02_Term-Project
 Artificial Intelligence Term Group Project
 
-Pneumonia Detection
+# Pneumonia Detection
 
 Intro:
 Deep learning and computer vision advancements have made it possible to design software that helps doctors today. In this research, we're employing a convolutional neural network (CNN) model trained on chest X-ray pictures to identify whether a patient has pneumonia or not. This classification task was carried out using the VGG16 CNN model. To save radiologists' time, this model is used to pre-screen chest X-ray pictures before their review.
