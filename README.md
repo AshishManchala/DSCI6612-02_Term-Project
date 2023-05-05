@@ -1,11 +1,5 @@
 # DSCI6612-02_Term-Project - Pneumonia Detection from CXR (chest x-ray)
 
-Project by 
-1. Ashish Manchala
-2. Nehanvitha Adapa
-3. Gangai Kali Prasad
-
-
 Intro:
 Deep learning and computer vision advancements have made it possible to design software that helps doctors today. In this research, we're employing a convolutional neural network (CNN) model trained on chest X-ray pictures to identify whether a patient has pneumonia or not. This classification task was carried out using the VGG16 CNN model. To save radiologists' time, this model is used to pre-screen chest X-ray pictures before their review.
 Two Jupyter Notebooks are used in this project:
